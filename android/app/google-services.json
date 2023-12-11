@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98402261036",
+    "project_id": "hortifruti-app1",
+    "storage_bucket": "hortifruti-app1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98402261036:android:0c05367b31e2c9823a5989",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOAXSnIV_AxK_qUzSIVChxZDrhOJA9Sic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
